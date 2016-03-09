@@ -4,5 +4,5 @@
 .DS_Store
 .history
 .springbeans
-.svn
+*/.svn
 target/
